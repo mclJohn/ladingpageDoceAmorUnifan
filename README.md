@@ -14,8 +14,8 @@ Integração com redes sociais
 Botões de ação
 
 
-HTML5.
-CSS3.
+HTML.
+CSS.
 JavaScript.
 Bootstrap.
 Font.
