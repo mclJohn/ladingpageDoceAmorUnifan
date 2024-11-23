@@ -20,7 +20,7 @@ JavaScript.
 Bootstrap.
 Font.
 
-Como acessar?
-Visite a página em:
+
+Visite a página:
 https://ladingpage-padoca-unifan.vercel.app/
 
